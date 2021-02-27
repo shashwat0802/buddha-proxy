@@ -1,0 +1,18 @@
+.Navbar {
+  background-color: #1b1b22;
+}
+
+.inactive-link {
+  color: #85859a;
+}
+.inactive-link:hover {
+  color: #85859a;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.logout-btn {
+  border-radius: 25px;
+}
