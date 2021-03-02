@@ -13,7 +13,7 @@ const Navbar = () => {
               <Link
                 className={
                   window.location.pathname === '/'
-                    ? 'active-link'
+                    ? 'text-white'
                     : 'inactive-link'
                 }
                 to="/"
@@ -37,7 +37,7 @@ const Navbar = () => {
               <Link
                 className={
                   window.location.pathname === '/purchase'
-                    ? 'active-link'
+                    ? 'text-white'
                     : 'inactive-link'
                 }
                 to="/purchase"
@@ -54,7 +54,10 @@ const Navbar = () => {
           >
             <img src={require('../img/message.svg').default} alt="" />
           </button>
-          <button className="logout-btn border-0 bg-white ml-3 px-4 btn py-1">
+          <button
+            className="logout-btn border-0 bg-white ml-3 px-4 btn py-1 font-weight-bold"
+            style={{ fontSize: '14px' }}
+          >
             Logout
           </button>
         </div>
