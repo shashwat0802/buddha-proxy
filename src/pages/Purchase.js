@@ -35,7 +35,7 @@ const Purchase = () => {
                 dolore magna aliqua.
               </p>
               <button
-                className="bg-white border-0 bg-white px-5 btn py-1 w-100 font-weight-bold"
+                className="bg-white border-0 bg-white px-5 btn py-2 w-100 font-weight-bold"
                 style={{ borderRadius: '25px', fontSize: '13px' }}
               >
                 Purchase
@@ -81,8 +81,12 @@ const Purchase = () => {
                 magna aliqua.
               </p>
               <button
-                className="bg-white border-0 bg-white px-5 btn py-1 w-100 font-weight-bold"
-                style={{ borderRadius: '25px', fontSize: '13px' }}
+                className=" border-0 text-white px-5 btn py-2 w-100 font-weight-bold"
+                style={{
+                  borderRadius: '25px',
+                  fontSize: '13px',
+                  backgroundColor: '#6926FF ',
+                }}
               >
                 Purchase
               </button>
@@ -126,8 +130,12 @@ const Purchase = () => {
                 magna aliqua.
               </p>
               <button
-                className="bg-white border-0 bg-white px-5 btn py-1 w-100 font-weight-bold"
-                style={{ borderRadius: '25px', fontSize: '13px' }}
+                className=" border-0 px-5 text-white btn py-2 w-100 font-weight-bold"
+                style={{
+                  borderRadius: '25px',
+                  fontSize: '13px',
+                  backgroundColor: '#6926FF ',
+                }}
               >
                 Purchase
               </button>
@@ -171,8 +179,12 @@ const Purchase = () => {
                 magna aliqua.
               </p>
               <button
-                className="bg-white border-0 bg-white px-5 btn py-1 w-100 font-weight-bold"
-                style={{ borderRadius: '25px', fontSize: '13px' }}
+                className=" border-0 text-white px-5 btn py-2 w-100 font-weight-bold"
+                style={{
+                  borderRadius: '25px',
+                  fontSize: '13px',
+                  backgroundColor: '#6926FF ',
+                }}
               >
                 Purchase
               </button>

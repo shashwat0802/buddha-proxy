@@ -1,0 +1,19 @@
+.purchase-btn-wrapper .active-btn {
+  background-color: #fff;
+  border-radius: 25px;
+  color: #000 !important;
+}
+.purchase-btn-wrapper .inactive-btn {
+  background-color: transparent;
+  border-radius: 25px;
+  color: #85859a;
+}
+
+.datacenter-bg {
+  background-image: url('../img/yellow-bg.svg');
+  background-size: cover;
+  background-position: 90%;
+  background-repeat: no-repeat;
+  height: 320px;
+  border-radius: 5px;
+}
