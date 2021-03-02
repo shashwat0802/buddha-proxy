@@ -1,0 +1,89 @@
+<svg id="Group_6" data-name="Group 6" xmlns="http://www.w3.org/2000/svg" width="235.6" height="67.6" viewBox="0 0 235.6 67.6">
+  <g id="canada_copy" data-name="canada copy">
+    <circle id="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <g id="Group" transform="translate(0 1.25)">
+      <path id="Path" d="M7.235,11.53A12.8,12.8,0,0,0,0,0V23.06A12.8,12.8,0,0,0,7.235,11.53Z" transform="translate(18.365 0.02)" fill="#d80027"/>
+      <path id="Path-2" data-name="Path" d="M0,11.53A12.8,12.8,0,0,0,7.235,23.06V0A12.8,12.8,0,0,0,0,11.53Z" transform="translate(0 0.02)" fill="#d80027"/>
+      <path id="Path-3" data-name="Path" d="M6.678,5.565,8.9,4.452,7.791,3.9V2.783L5.565,3.9,6.678,1.67H5.565L4.452,0,3.339,1.67H2.226L3.339,3.9,1.113,2.783V3.9L0,4.452,2.226,5.565,1.67,6.678H3.9v1.67H5.009V6.678H7.235Z" transform="translate(8.348 7.654)" fill="#d80027"/>
+    </g>
+  </g>
+  <g id="france_copy" data-name="france copy" transform="translate(42)">
+    <circle id="Oval-2" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <path id="Path-4" data-name="Path" d="M8.348,12A12.8,12.8,0,0,0,0,0V24.008A12.8,12.8,0,0,0,8.348,12Z" transform="translate(17.252 0.796)" fill="#d80027"/>
+    <path id="Path-5" data-name="Path" d="M0,12a12.8,12.8,0,0,0,8.348,12V0A12.8,12.8,0,0,0,0,12Z" transform="translate(0 0.796)" fill="#0052b4"/>
+  </g>
+  <g id="germany_copy" data-name="germany copy" transform="translate(84)">
+    <path id="Path-6" data-name="Path" d="M0,1.113A12.8,12.8,0,0,0,12,9.461a12.8,12.8,0,0,0,12-8.348L12,0Z" transform="translate(0.796 16.139)" fill="#ffda44"/>
+    <path id="Path-7" data-name="Path" d="M12,0A12.8,12.8,0,0,0,0,8.348L12,9.461l12-1.113A12.8,12.8,0,0,0,12,0Z" transform="translate(0.796)"/>
+    <path id="Path-8" data-name="Path" d="M.8,0a12.847,12.847,0,0,0,0,8.9H24.8a12.847,12.847,0,0,0,0-8.9Z" transform="translate(0 8.348)" fill="#d80027"/>
+  </g>
+  <g id="italy_copy" data-name="italy copy" transform="translate(126)">
+    <circle id="Oval-3" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <path id="Path-9" data-name="Path" d="M8.348,12A12.8,12.8,0,0,0,0,0V24.008A12.8,12.8,0,0,0,8.348,12Z" transform="translate(17.252 0.796)" fill="#d80027"/>
+    <path id="Path-10" data-name="Path" d="M0,12a12.8,12.8,0,0,0,8.348,12V0A12.8,12.8,0,0,0,0,12Z" transform="translate(0 0.796)" fill="#6da544"/>
+  </g>
+  <g id="netherlands_copy" data-name="netherlands copy" transform="translate(168)">
+    <circle id="Oval-4" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <path id="Path-11" data-name="Path" d="M12,0A12.8,12.8,0,0,0,0,8.348H24.008A12.8,12.8,0,0,0,12,0Z" transform="translate(0.796)" fill="#a2001d"/>
+    <path id="Path-12" data-name="Path" d="M12,8.348A12.8,12.8,0,0,0,24.008,0H0A12.8,12.8,0,0,0,12,8.348Z" transform="translate(0.796 17.252)" fill="#0052b4"/>
+  </g>
+  <g id="poland_copy" data-name="poland copy" transform="translate(210)">
+    <circle id="Oval-5" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <path id="Path-13" data-name="Path" d="M25.6,0A12.8,12.8,0,0,1,12.8,12.8,12.8,12.8,0,0,1,0,0" transform="translate(0 12.8)" fill="#d80027"/>
+  </g>
+  <g id="russia_copy" data-name="russia copy" transform="translate(0 42)">
+    <circle id="Oval-6" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <path id="Path-14" data-name="Path" d="M24.8,8.9a12.847,12.847,0,0,0,0-8.9H.8a12.847,12.847,0,0,0,0,8.9l12,1.113Z" transform="translate(0 8.348)" fill="#0052b4"/>
+    <path id="Path-15" data-name="Path" d="M12,8.348A12.8,12.8,0,0,0,24.008,0H0A12.8,12.8,0,0,0,12,8.348Z" transform="translate(0.796 17.252)" fill="#d80027"/>
+  </g>
+  <g id="spain_copy" data-name="spain copy" transform="translate(42 42)">
+    <path id="Path-16" data-name="Path" d="M0,5.565a12.773,12.773,0,0,0,.8,4.452l12,1.113,12-1.113a12.847,12.847,0,0,0,0-8.9L12.8,0,.8,1.113A12.773,12.773,0,0,0,0,5.565Z" transform="translate(0 7.235)" fill="#ffda44"/>
+    <g id="Group-2" data-name="Group" transform="translate(0.75)">
+      <path id="Path-17" data-name="Path" d="M24.008,8.348A12.8,12.8,0,0,0,0,8.348Z" transform="translate(0.046)" fill="#d80027"/>
+      <path id="Path-18" data-name="Path" d="M0,0A12.8,12.8,0,0,0,12,8.348,12.8,12.8,0,0,0,24.008,0Z" transform="translate(0.046 17.252)" fill="#d80027"/>
+    </g>
+  </g>
+  <g id="sweden_copy" data-name="sweden copy" transform="translate(83 42)">
+    <circle id="Oval-7" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#ffda44"/>
+    <g id="Group-3" data-name="Group" transform="translate(0.1)">
+      <path id="Path-19" data-name="Path" d="M0,11.13H15.474A12.81,12.81,0,0,0,0,.3V11.13Z" transform="translate(9.917)" fill="#0052b4"/>
+      <path id="Path-20" data-name="Path" d="M6.57,9.574V0A12.808,12.808,0,0,0,0,9.574H6.57Z" transform="translate(0.008 1.556)" fill="#0052b4"/>
+      <path id="Path-21" data-name="Path" d="M6.57,0H0A12.808,12.808,0,0,0,6.57,9.574V0Z" transform="translate(0.008 14.47)" fill="#0052b4"/>
+      <path id="Path-22" data-name="Path" d="M0,0V10.826a12.845,12.845,0,0,0,2.783.3A12.8,12.8,0,0,0,15.474,0H0Z" transform="translate(9.917 14.47)" fill="#0052b4"/>
+    </g>
+  </g>
+  <g id="ukraine_copy" data-name="ukraine copy" transform="translate(126 42)">
+    <circle id="Oval-8" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#ffda44"/>
+    <path id="Path-23" data-name="Path" d="M0,12.8a12.8,12.8,0,0,1,25.6,0" fill="#338af3"/>
+  </g>
+  <g id="united-states_copy" data-name="united-states copy" transform="translate(209 42)">
+    <circle id="Oval-9" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <g id="Group-4" data-name="Group" transform="translate(0.4 2.75)">
+      <path id="Path-24" data-name="Path" d="M0,3.339H13.356A12.814,12.814,0,0,0,12.916,0H0Z" transform="translate(11.844 6.711)" fill="#d80027"/>
+      <path id="Path-25" data-name="Path" d="M0,3.339H11.478A12.867,12.867,0,0,0,8.524,0H0Z" transform="translate(11.844 0.033)" fill="#d80027"/>
+      <path id="Path-26" data-name="Path" d="M7.968,2.783A12.745,12.745,0,0,0,15.936,0H0A12.745,12.745,0,0,0,7.968,2.783Z" transform="translate(4.432 20.067)" fill="#d80027"/>
+      <path id="Path-27" data-name="Path" d="M1.438,3.339H23.28A12.724,12.724,0,0,0,24.718,0H0A12.724,12.724,0,0,0,1.438,3.339Z" transform="translate(0.041 13.389)" fill="#d80027"/>
+    </g>
+    <path id="Shape" d="M0,12.8a12.973,12.973,0,0,1,.1-1.6l.65-.473,1.085.788-.415-1.275L2.5,9.456H1.163L.8,8.338c.125-.338.266-.67.419-.994l.616.447L1.5,6.776q.148-.277.31-.547l.691-.5H2.13A12.867,12.867,0,0,1,4.613,2.961l-.358,1.1L5.34,3.274l1.085.788L6.011,2.787,7.1,2H5.929A12.741,12.741,0,0,1,12.8,0V12.8Z" fill="#0052b4"/>
+  </g>
+  <g id="united-kingdom-3_copy" data-name="united-kingdom-3 copy" transform="translate(167 42)">
+    <circle id="Oval-10" data-name="Oval" cx="12.8" cy="12.8" r="12.8" transform="translate(0 0)" fill="#f0f0f0"/>
+    <g id="Group-5" data-name="Group" transform="translate(0.4 0.4)">
+      <path id="Path-28" data-name="Path" d="M2.205,0A12.753,12.753,0,0,0,0,4.454H6.659Z" transform="translate(0.041 4.607)" fill="#0052b4"/>
+      <path id="Path-29" data-name="Path" d="M6.659,4.454A12.754,12.754,0,0,0,4.454,0L0,4.454Z" transform="translate(18.1 4.607)" fill="#0052b4"/>
+      <path id="Path-30" data-name="Path" d="M0,0A12.755,12.755,0,0,0,2.205,4.454L6.659,0Z" transform="translate(0.041 15.739)" fill="#0052b4"/>
+      <path id="Path-31" data-name="Path" d="M4.454,2.205A12.754,12.754,0,0,0,0,0V6.659Z" transform="translate(15.739 0.041)" fill="#0052b4"/>
+      <path id="Path-32" data-name="Path" d="M0,4.454A12.754,12.754,0,0,0,4.454,6.659V0Z" transform="translate(4.607 18.1)" fill="#0052b4"/>
+      <path id="Path-33" data-name="Path" d="M4.454,0A12.755,12.755,0,0,0,0,2.205L4.454,6.659Z" transform="translate(4.607 0.041)" fill="#0052b4"/>
+      <path id="Path-34" data-name="Path" d="M0,6.659A12.755,12.755,0,0,0,4.454,4.454L0,0Z" transform="translate(15.739 18.1)" fill="#0052b4"/>
+      <path id="Path-35" data-name="Path" d="M0,0,4.454,4.454A12.754,12.754,0,0,0,6.659,0Z" transform="translate(18.1 15.739)" fill="#0052b4"/>
+    </g>
+    <g id="Group-6" data-name="Group">
+      <path id="Path-36" data-name="Path" d="M25.492,11.13H14.47V.108a12.917,12.917,0,0,0-3.339,0V11.13H.108a12.917,12.917,0,0,0,0,3.339H11.13V25.492a12.917,12.917,0,0,0,3.339,0V14.47H25.492a12.917,12.917,0,0,0,0-3.339Z" fill="#d80027"/>
+      <path id="Path-37" data-name="Path" d="M0,0H0L5.712,5.712q.394-.394.752-.822L1.574,0H0Z" transform="translate(16.139 16.139)" fill="#d80027"/>
+      <path id="Path-38" data-name="Path" d="M5.712,0h0L0,5.712q.394.394.822.752l4.89-4.89Z" transform="translate(3.749 16.139)" fill="#d80027"/>
+      <path id="Path-39" data-name="Path" d="M6.464,5.712h0L.752,0Q.358.394,0,.822l4.89,4.89H6.464Z" transform="translate(2.997 3.749)" fill="#d80027"/>
+      <path id="Path-40" data-name="Path" d="M0,6.464H0L5.712.752Q5.318.358,4.89,0L0,4.89V6.464Z" transform="translate(16.139 2.997)" fill="#d80027"/>
+    </g>
+  </g>
+</svg>
