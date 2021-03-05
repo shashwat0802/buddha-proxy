@@ -1,7 +1,11 @@
 import React from 'react';
 import Navbar from '../component/Navbar';
 import '../styles/Dashboard.css';
+import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
+import '../../node_modules/react-circular-progressbar/dist/styles.css';
 const Dashboard = () => {
+  const percentage = 2.4;
+  const value = 80;
   return (
     <>
       <Navbar />
@@ -10,9 +14,25 @@ const Dashboard = () => {
           <div className="col-12 col-md-6">
             <div className="d-flex mt-5 mb-3 ">
               <div className="purple-bg d-flex justify-content-between p-4 align-items-center ">
-                <div className="d-flex justify-content-center align-items-center data-circle ">
+                <CircularProgressbar
+                  value={value}
+                  text={`${percentage} GB`}
+                  className="w-50 mr-3"
+                  styles={buildStyles({
+                    // Text size
+                    textSize: '16px',
+
+                    // Colors
+                    pathColor: `#FEF4AD`,
+                    textColor: '#fff',
+                    trailColor: '#783CFF',
+                    backgroundColor: 'transparent',
+                  })}
+                />
+
+                {/* <div className="d-flex justify-content-center align-items-center data-circle ">
                   <h6 className="text-white font-weight-normal my-0">2.4 GB</h6>
-                </div>
+                </div> */}
                 <div className="text-white ">
                   <h6 className="font-weight-normal">Total Data Usage</h6>
                   <h5 className="font-weight-normal">
